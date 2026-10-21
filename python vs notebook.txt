@@ -1,0 +1,4 @@
+jupyter is used for data analyse and report and experiment
+notebook comnines code ,exlanation,outputs
+python is easy to test,run,manitauin and debug
+python used for reusable programs and automation
